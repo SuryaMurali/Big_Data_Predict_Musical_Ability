@@ -1,4 +1,4 @@
-load("C:/Users/Surya/Google Drive/Current Courses/ST 810/challenge/C1/C1.RData")
+X <- #data from brain image scans pixelated, having values from 0 to 255 for every pixel
 #assigning datasets
 I<-X
 dim(I)<-c(200,8000)
